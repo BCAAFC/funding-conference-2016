@@ -15,6 +15,6 @@ For each funder there will be an opportunity for delegates to schedule short 15-
 
 ## Who should attend?
 
-We recommend that organizations interested in receiving funding send their program managers or financial controllers.
+We recommend that organizations send their program managers or financial controllers from First Nations and Aboriginal Organizations.
 
 ![](/public/img/delegate.png)
