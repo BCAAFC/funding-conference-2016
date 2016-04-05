@@ -10,7 +10,7 @@ order: 2
 
 At the event there will be presentations by each funding organization in the main hall approximately every 20 minutes.
 
-For each funder there will be an opportunity delegates to schedule short 15-minute private meetings in which the delegate and the funder can discuss opportunities and address specific questions.
+For each funder there will be an opportunity for delegates to schedule short 15-minute private meetings in which the delegate and the funder can discuss opportunities and address specific questions.
 
 
 ## Who should attend?
