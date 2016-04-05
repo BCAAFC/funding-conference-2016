@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+gems:             [jekyll-paginate]
+
+# Permalinks
+permalink:        pretty
+paginate:         5
+paginate_path:    "/news/page:num"
+
+# Setup
+title:            'BC Aboriginal Funding Conference'
+tagline:          'Connecting organizations with funders.'
+description:      '<span>Making</span> <span>Connections</span>'
+url:              '//funding-conference.bcaafc.com'
+baseurl:          '/'
+
+author:
+  name:           'Della Preston'
+  url:            '//funding-conference.bcaafc.com'
