@@ -4,7 +4,7 @@ title: About
 order: 2
 ---
 
-![](/public/img/presenter.png)
+![](/public/img/presenter.jpg)
 
 ## How does it work?
 
@@ -17,4 +17,4 @@ For each funder there will be an opportunity for delegates to schedule short 15-
 
 We recommend that organizations send their program managers or financial controllers from First Nations and Aboriginal Organizations.
 
-![](/public/img/delegate.png)
+![](/public/img/delegate.jpg)
