@@ -10,7 +10,7 @@ paginate_path:    "/news/:num"
 # Setup
 title:            'BC Aboriginal Funding Conference'
 tagline:          'Connecting organizations with funders.'
-description:      '<span>Making</span> <span>Connections</span>'
+description:      ''
 url:              '//funding-conference.bcaafc.com'
 baseurl:          '/'
 

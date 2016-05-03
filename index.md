@@ -3,10 +3,44 @@ layout: default
 title: Index
 ---
 
-The 2nd annual *B.C. Aboriginal Funding Conference for First Nations and Aboriginal Organizations* is an event organized by the [B.C. Association of Aboriginal Friendship Centres](http://www.bcaafc.com/).
+### B.C. Aboriginal Funding Conference for First Nations and Aboriginal Organizations ##
+
+This year the conference will be held in **Richmond, B.C.** from **September 21st** to **September 23rd 2016**.
 
 Last year the conference was in Victoria, over 60 Funders and 200 organizations seeking funding participated. This year we hope to accommodate up to 400 organizations.
 
-This year the conference will be held in Richmond, B.C. from September 21st to September 23rd 2016.
 
-Registration is currently **not** open, we will be opening registration before May 1st.
+
+<div>
+    <i class="fa fa-fw fa-4x fa-users"></i>
+    <h3 style="display: inline-block;">Meet</h3>
+    <p>
+        Meet with a diverse group of funders, First Nations and Aboriginal organizations, watch their presentations, and participate in one-on-one meetings(on-site sign-up).
+    </p>
+</div>
+
+
+
+<div>
+    <i class="fa fa-fw fa-4x fa-book"></i>
+    <h3 style="display: inline-block;">Learn</h3>
+    <p>Attain the knowledge you need to ensure your applications are successful. An organization can register as many representatives as they want.
+    </p>
+</div>
+
+
+<div>
+    <i class="fa fa-fw fa-4x fa-money"></i>
+    <h3 style="display: inline-block;">Succeed</h3>
+    <p>
+        Benefit from this newfound information to increase your revenue and diversify your funding resources. Participate in the networking receptions to strengthen partnerships.
+    </p>
+</div>
+
+### Registering ###
+
+Registration is currently **not** open.
+
+<strong>Registration includes:</strong> access to all agenda items listed, two lunches &  nutritional breaks provided.
+
+<strong>Registration does not include:</strong> breakfasts, dinners, travel, accommodations.
