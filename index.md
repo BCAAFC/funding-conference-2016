@@ -39,7 +39,10 @@ Last year the conference was in Victoria, over 60 Funders and 200 organizations 
 
 ### Registering ###
 
-Registration is currently **not** open.
+You can register for the conference below:
+
+<a class="button" style="width: 49%; display: inline-block;" href="  https://fluidsurveys.com/surveys/bcaafc-mqC/funding-conference-2016-delegate-registration/">Delegate Registration</a>
+<a class="button" style="width: 49%; display: inline-block;" href="  https://fluidsurveys.com/surveys/bcaafc-mqC/funding-conference-2016-speaker-proposal/">Speaker Proposals</a>
 
 <strong>Registration includes:</strong> access to all agenda items listed, two lunches &  nutritional breaks provided.
 
