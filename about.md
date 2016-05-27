@@ -22,7 +22,7 @@ We recommend that organizations send their program managers or financial control
 Sheraton Vancouver Airport Hotel
 7551 Westminster Highway, Richmond, BC V6X 1A3 Canada
 
-## When are the Dates
+## When are the dates?
 
 September 21 – 23, 2016
 
@@ -34,11 +34,19 @@ Registration is only available on line.
 
 Registration fee is $500/person
 
-## Accommodations
+## What are the recommended accommodations?
 
 * [Sheraton Vancouver Airport Hotel](http://www.sheratonvancouverairport.com/)
 * [Marriott Vancouver Airport](http://www.marriott.com/hotels/travel/yvrsa-vancouver-airport-marriott-hotel/)
 * [Hilton Vancouver Airport](http://www3.hilton.com/en/hotels/british-columbia/hilton-vancouver-airport-YVRAHHF/index.html)
+
+## Do you provide a sponsorship for travel, registration, or accomodation?
+
+No, we do not have sponsorship available at this time.
+
+## Is there a discount or different rate for non-profits?
+
+No.
 
 ## When do I sign up for appointments?
 
