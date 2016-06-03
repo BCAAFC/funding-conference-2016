@@ -7,12 +7,12 @@ order: 3
 We will be updating this page with a list of scheduled funders and events in the future.
 
 
-## Wednesday, September 23
+## Wednesday, September 21
 
 * **06:00 pm - 08:00 pm**: Registration & Reception, at Registration Desk
 * **07:00 pm - 08:00 pm**: Opening and Keynote, in Grand Minoru
 
-## Thursday, September 24
+## Thursday, September 22
 
 * **09:00 am - 10:30 am**: Funder Presentations, in Grand Minoru
 * **09:00 am - 05:00 pm**: Individual Appointments, in various break-out rooms
@@ -23,7 +23,7 @@ We will be updating this page with a list of scheduled funders and events in the
 * **02:45 pm - 03:00 pm**: Nutritional Coffee Break
 * **03:00 pm - 05:00 pm**: Funder Presentations, in Grand Minoru
 
-## Friday, September 25
+## Friday, September 23
 
 * **09:00 am - 10:30 am**: Funder Presentations, in Grand Minoru
 * **09:00 am - 05:00 pm**: Individual Appointments, in various break-out rooms
