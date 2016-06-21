@@ -3,7 +3,7 @@ layout: default
 title: Index
 ---
 
-### B.C. Aboriginal Funding Conference for First Nations and Aboriginal Organizations ##
+### BC Aboriginal Funding Conference Supporting Indigenous Initiatives ##
 
 This year the conference will be held in **Richmond, B.C.** from **September 21st** to **September 23rd 2016**.
 
