@@ -7,7 +7,7 @@ title: Index
 
 This year the conference will be held in **Richmond, B.C.** from **September 21st** to **September 23rd 2016**.
 
-Last year the conference was in Victoria, over 60 Funders and 200 organizations seeking funding participated. This year we hope to accommodate up to 400 delegates.
+Last year the conference was in Victoria, over 60 Funders and 200 organizations seeking funding participated. This year we hope to accommodate up to 300 delegates.
 
 
 
