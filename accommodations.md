@@ -32,4 +32,4 @@ These hotels all share the following rate with us:
 * Triple: $185
 * Quad: $205
 
-The **deadline** for these rates is **August 18th, 2016** and you must identify yourself as a participant attending the **BC Indigenous Funding Conference 2016**.
+The **deadline** for these rates is **August 25th, 2016** and you must identify yourself as a participant attending the **BC Indigenous Funding Conference 2016**.
