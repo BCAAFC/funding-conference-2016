@@ -36,9 +36,11 @@ Registration fee is $500/person
 
 ## What are the recommended accommodations?
 
-* [Sheraton Vancouver Airport Hotel](http://www.sheratonvancouverairport.com/) - [Book Now!](https://www.starwoodmeeting.com/events/start.action?id=1606094778&key=91927AC)
-* [Marriott Vancouver Airport](http://www.marriott.com/hotels/travel/yvrsa-vancouver-airport-marriott-hotel/)- [Book Now!](http://cwp.marriott.com/yvrsa/bcafcsep2016/)
-* [Hilton Vancouver Airport](http://www3.hilton.com/en/hotels/british-columbia/hilton-vancouver-airport-YVRAHHF/index.html) - [Book Now!](http://www.hilton.com/en/hi/groups/personalized/Y/YVRAHHF-BCAFC-20160921/index.jhtml?WT.mc_id=POG)
+* [Sheraton Vancouver Airport Hotel](http://www.sheratonvancouverairport.com/) - [Book Now!](https://www.starwoodmeeting.com/events/start.action?id=1606094778&key=91927AC) or call: 1-800-663-0299 or 604-273-7878
+
+* [Marriott Vancouver Airport](http://www.marriott.com/hotels/travel/yvrsa-vancouver-airport-marriott-hotel/)- [Book Now!](http://cwp.marriott.com/yvrsa/bcafcsep2016/) or Call: 1-877-323-8888 or 604-233-3991
+
+* [Hilton Vancouver Airport](http://www3.hilton.com/en/hotels/british-columbia/hilton-vancouver-airport-YVRAHHF/index.html) - [Book Now!](http://www.hilton.com/en/hi/groups/personalized/Y/YVRAHHF-BCAFC-20160921/index.jhtml?WT.mc_id=POG) or Call: -800-445-8667 or 604-233-3990
 
 ## Do you provide a sponsorship for travel, registration, or accomodation?
 
