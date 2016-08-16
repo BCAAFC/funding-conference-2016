@@ -82,6 +82,6 @@ Yes, complimentary parking will be available for conference delegates.
 
 ## Does this event happen every year?
 
-We hope to make it annual. We welcome your feedback either on the surveys handed out Friday or on the link that will be sent to each delegate post-event.
+We hope to make it an annual. We welcome your feedback either on the surveys handed out Friday or on the link that will be sent to each delegate post-event.
 
 ![](/public/img/delegate.jpg)
