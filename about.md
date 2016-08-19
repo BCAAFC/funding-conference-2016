@@ -60,12 +60,6 @@ Registration fee is $500/person
 
 ## What are the recommended accommodations?
 
-* [Sheraton Vancouver Airport Hotel](http://www.sheratonvancouverairport.com/) - [Book Now!](https://www.starwoodmeeting.com/events/start.action?id=1606094778&key=91927AC) 
- 
-  Phone: 1-800-663-0299 or 604-273-7878
-
-  Conference code: BC Aboriginal Funding Conference 
-
 * [Marriott Vancouver Airport](http://www.marriott.com/hotels/travel/yvrsa-vancouver-airport-marriott-hotel/)- [Book Now!](http://cwp.marriott.com/yvrsa/bcafcsep2016/) 
 
   Phone: 1-877-323-8888 or 604-233-3991
@@ -77,6 +71,10 @@ Registration fee is $500/person
   Phone: -800-445-8667 or 604-233-3990
   
   Conference code: BC Aboriginal Funding Conference
+  
+* Sheraton Vancouver Airport Hotel - closed for conference rates
+ 
+  Phone: 1-800-663-0299 or 604-273-7878
 
 ## Do you provide a sponsorship for travel, registration, or accomodation?
 
