@@ -15,7 +15,7 @@ Last year the conference was in Victoria, over 60 Funders and 200 organizations 
     <i class="fa fa-fw fa-4x fa-users"></i>
     <h3 style="display: inline-block;">Meet</h3>
     <p>
-        Meet with a diverse group of funders, Indigenous organizations, watch their presentations, and participate in one-on-one meetings(on-site sign-up).
+        Meet with a diverse group of funders, Indigenous organizations, watch their presentations and participate in one-on-one meetings (on-site sign-up).
     </p>
 </div>
 
