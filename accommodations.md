@@ -6,12 +6,6 @@ order: 4
 
 We've build relationships with the following nearby hotels:
 
-* [Sheraton Vancouver Airport Hotel](https://www.starwoodmeeting.com/events/start.action?id=1606094778&key=91927AC)
-
-  Phone: 1-800-663-0299 or 604-273-7878 
-  
-  Code: BC Aboriginal Funding Conference 2016
-
 * [Vancouver Airport Mariott Hotel](http://cwp.marriott.com/yvrsa/bcafcsep2016/) 
 
   Phone: 1-877-323-8888 or 604-233-3991
@@ -23,6 +17,10 @@ We've build relationships with the following nearby hotels:
   Phone: 1-800-445-8667 or 604-233-3990
   
   Code: BC Aboriginal Funding Conference 2016
+  
+* Sheraton Vancouver Airport Hotel accommodations closed
+
+  Phone: 1-800-663-0299 or 604-273-7878
 
 
 These hotels all share the following rate with us:
