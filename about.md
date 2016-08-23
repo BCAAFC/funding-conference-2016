@@ -8,34 +8,54 @@ order: 2
 
 ## How does it work?
 
-At the event there will be presentations by each funding organization in the main ballroom approximately every 20 minutes. Delegates will hear from a variety of funders about the funding they have available. Delegates will hear about eligibility requirement, funding schedule and priorities from funders themselves. We are inviting funders who provide funding for: 
+At the event there will be presentations by funding organization in the main ballroom approximately every 20 minutes. Delegates will hear from a variety of funders about the funding they have available. Delegates will hear about eligibility requirement, funding schedule and priorities from funders themselves. We are inviting funders who provide funding for: 
  * Social Enterprise
+
  * Sports and Recreation
+ 
  * Cultural and Language programs
+ 
  * Arts, Culture and Language
+ 
  * Employment/Training Programs
+ 
  * Entrepreneurship & Self-Employment
+ 
  * Health
+ 
  * Capital
+ 
  * Aboriginal Career Development
+ 
  * Employment Training
+ 
  * Physical Health
+ 
  * Mental Health
+ 
  * Capacity Building
+ 
  * Health clinics
+ 
  * Environment
+ 
  * Health Research
+ 
  * Funding for individual Aboriginal people
+ 
  * Extinguishing Domestic Violence
+ 
  * Wellness and Health
+ 
  * Youth
+ 
  * Traditional Foods
 
 After each funder presentation delegates will have an opportunity to schedule short 15-minute private meetings with funders to discuss opportunities and address specific questions.
 
-##Why should you attend this event?
+## Why should you attend this event?
 
-It provides a space to meet one on one with funders. There is an opportunity to connect and build partnerships with other First Nations and Indigenous Organizations. The breaks and lunches provide an opportune time to network and share best practices with other Indigenous organizations. It is a great space to learn about new funding for you community. It a chance to learn about funding to support existing project or new project you want to start in your community. 
+It provides a space to meet one on one with funders. There is an opportunity to connect and build partnerships with other First Nations and Indigenous Organizations. The breaks and lunches provide an opportune time to network and share best practices with other Indigenous organizations. It is a great space to learn about new funding for your community. It a chance to learn about funding to support existing projects or new projects you want to start in your community. 
 
 ## Who should attend?
 
