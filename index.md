@@ -5,7 +5,13 @@ title: Index
 
 ### BC Indigenous Funding Conference ##
 
-This year the conference will be held in **Richmond, B.C.** from **September 21st** to **September 23rd 2016**.
+**Richmond, BC** from **September 21 - 23, 2016**.
+
+Sheraton Vancouver Airport Hotel 
+
+7551 Westminster Highway, Richmond, BC V6X 1A3 Canada
+
+
 
 Last year the conference was in Victoria, over 60 Funders and 200 organizations seeking funding participated. This year we hope to accommodate up to 300 delegates.
 
