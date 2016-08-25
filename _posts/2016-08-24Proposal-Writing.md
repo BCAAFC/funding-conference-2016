@@ -1,7 +1,7 @@
----
+--- 
 layout: post
 title: Proposal Writing Workshop Application deadline Aug 31/16
----
+--- 
 
 # The Event
 
