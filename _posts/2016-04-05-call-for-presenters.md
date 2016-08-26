@@ -44,4 +44,4 @@ BC Association of Aboriginal Friendship Centres,
 551 Chatham Street, Victoria, BC, V8T 1E1
 
 Phone: 250-388-5522 or 1-800-990-2432
-E-mail: [dpreston@bcaafc.com](dpreston@bcaafc.com)
+E-mail: <dpreston@bcaafc.com>
