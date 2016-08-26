@@ -34,4 +34,4 @@ The intention is to run several proposal writing workshops concurrently, each wi
 For further information, please contact:
 Della Preston, Conference Coordinator
 Tel: 250-388-5522 or 1-800-990-2432 Ext.210
-Email: [dpreston@bcaafc.com](dpreston@bcaafc.com)
+Email: <dpreston@bcaafc.com>
