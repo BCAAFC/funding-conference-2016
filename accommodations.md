@@ -11,12 +11,16 @@ We've build relationships with the following nearby hotels:
   Phone: 1-877-323-8888 or 604-233-3991
   
   Code: BC Aboriginal Funding Conference 2016
+  
+  **If conference rate rooms are all booked please call Hannah 250-388-5522 ext.222 so she can make booking arrangements for you.**
 
 * [Hilton Vancouver Airport Hotel](http://www.hilton.com/en/hi/groups/personalized/Y/YVRAHHF-BCAFC-20160921/index.jhtml?WT.mc_id=POG)
 
   Phone: 1-800-445-8667 or 604-233-3990
   
   Code: BC Aboriginal Funding Conference 2016
+  
+  **If conference rate rooms are all booked please call Hannah 250-388-5522 ext.222 so she can make booking arrangements for you.**
   
 * Sheraton Vancouver Airport Hotel accommodations closed
 
