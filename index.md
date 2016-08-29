@@ -43,7 +43,7 @@ Last year the conference was in Victoria, over 60 Funders and 200 organizations 
     </p>
 </div>
 
-### Registering ###
+### Registration is Open ###
 
 You can register for the conference below:
 
