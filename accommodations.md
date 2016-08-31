@@ -8,7 +8,7 @@ We've build relationships with the following nearby hotels:
 
 * [Vancouver Airport Mariott Hotel](http://cwp.marriott.com/yvrsa/bcafcsep2016/) 
 
-  Phone: 1-877-323-8888 or 604-233-3991
+  Phone: 604-233-3991 in-house reservations
   
   Code: BC Aboriginal Funding Conference 2016
   
@@ -16,7 +16,7 @@ We've build relationships with the following nearby hotels:
 
 * [Hilton Vancouver Airport Hotel](http://www.hilton.com/en/hi/groups/personalized/Y/YVRAHHF-BCAFC-20160921/index.jhtml?WT.mc_id=POG)
 
-  Phone: 1-800-445-8667 or 604-233-3990
+  Phone: 604-233-3990 in-house reservations
   
   Code: BC Aboriginal Funding Conference 2016
   
