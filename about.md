@@ -82,7 +82,7 @@ Registration fee is $500/person
 
 * [Marriott Vancouver Airport](http://www.marriott.com/hotels/travel/yvrsa-vancouver-airport-marriott-hotel/)- [Book Now!](http://cwp.marriott.com/yvrsa/bcafcsep2016/) 
 
-  Phone: 1-877-323-8888 or 604-233-3991
+  Phone: 604-233-3991 in-house reservations
   
   Conference code: BC Aboriginal Funding Conference
   
@@ -90,7 +90,7 @@ Registration fee is $500/person
 
 * [Hilton Vancouver Airport](http://www3.hilton.com/en/hotels/british-columbia/hilton-vancouver-airport-YVRAHHF/index.html) - [Book Now!](http://www.hilton.com/en/hi/groups/personalized/Y/YVRAHHF-BCAFC-20160921/index.jhtml?WT.mc_id=POG) 
 
-  Phone: -800-445-8667 or 604-233-3990
+  Phone: 604-233-3990 in-house reservations
   
   Conference code: BC Aboriginal Funding Conference
   
