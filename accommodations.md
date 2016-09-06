@@ -6,7 +6,7 @@ order: 4
 
 We've build relationships with the following nearby hotels:
 
-* [Vancouver Airport Mariott Hotel](http://cwp.marriott.com/yvrsa/bcafcsep2016/) 
+* [Vancouver Airport Marriott Hotel](http://cwp.marriott.com/yvrsa/bcafcsep2016/) 
 
   Phone: 604-233-3991 in-house reservations
   
