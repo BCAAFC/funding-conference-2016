@@ -6,23 +6,19 @@ order: 4
 
 We've build relationships with the following nearby hotels:
 
-* [Vancouver Airport Marriott Hotel](http://cwp.marriott.com/yvrsa/bcafcsep2016/) 
+* [Vancouver Airport Marriott Hotel](http://cwp.marriott.com/yvrsa/bcafcsep2016/) - No rooms available
 
   Phone: 604-233-3991 in-house reservations
   
   Code: BC Aboriginal Funding Conference 2016
   
-  **Please call in-house reservations between 8am and 5pm for assistance.**
-
-* [Hilton Vancouver Airport Hotel](http://www.hilton.com/en/hi/groups/personalized/Y/YVRAHHF-BCAFC-20160921/index.jhtml?WT.mc_id=POG)
+* [Hilton Vancouver Airport Hotel](http://www.hilton.com/en/hi/groups/personalized/Y/YVRAHHF-BCAFC-20160921/index.jhtml?WT.mc_id=POG) - No rooms available
 
   Phone: 604-233-3990 in-house reservations
   
   Code: BC Aboriginal Funding Conference 2016
   
-  **Please call in-house reservations between 8am and 5pm for assistance.**
-  
-* Sheraton Vancouver Airport Hotel - CLOSED - NO VACANCY
+  * Sheraton Vancouver Airport Hotel - CLOSED - NO VACANCY
 
   Phone: 1-800-663-0299 or 604-273-7878
 
