@@ -80,7 +80,7 @@ Registration fee is $500/person
 
 ## What are the recommended accommodations?
 
-* [Marriott Vancouver Airport](http://www.marriott.com/hotels/travel/yvrsa-vancouver-airport-marriott-hotel/)- [Book Now!](http://cwp.marriott.com/yvrsa/bcafcsep2016/) 
+* [Marriott Vancouver Airport](http://www.marriott.com/hotels/travel/yvrsa-vancouver-airport-marriott-hotel/)- No Rooms Available
 
   Phone: 604-233-3991 in-house reservations
   
@@ -88,7 +88,7 @@ Registration fee is $500/person
   
   **If conference rate rooms are all booked please call Hannah 250-388-5522 ext.222 so she can make booking arrangements for you.**
 
-* [Hilton Vancouver Airport](http://www3.hilton.com/en/hotels/british-columbia/hilton-vancouver-airport-YVRAHHF/index.html) - [Book Now!](http://www.hilton.com/en/hi/groups/personalized/Y/YVRAHHF-BCAFC-20160921/index.jhtml?WT.mc_id=POG) 
+* [Hilton Vancouver Airport](http://www3.hilton.com/en/hotels/british-columbia/hilton-vancouver-airport-YVRAHHF/index.html) - No Rooms Available 
 
   Phone: 604-233-3990 in-house reservations
   
@@ -96,7 +96,7 @@ Registration fee is $500/person
   
   **If conference rate rooms are all booked please call Hannah 250-388-5522 ext.222 so she can make booking arrangements for you.**
   
-* Sheraton Vancouver Airport Hotel - closed for conference rates
+* Sheraton Vancouver Airport Hotel - No Rooms Available
  
   Phone: 1-800-663-0299 or 604-273-7878
 
