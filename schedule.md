@@ -10,7 +10,7 @@ We will be updating this page with a list of scheduled funders and events in the
 ## Wednesday, September 21
 
 * **06:00 pm - 08:00 pm**: Registration & Reception, at Registration Desk
-* **07:00 pm - 08:00 pm**: Opening and Keynote, in Grand Minoru
+* **07:00 pm - 08:00 pm**: Opening, in Grand Minoru
 
 ## Thursday, September 22
 
@@ -25,11 +25,11 @@ We will be updating this page with a list of scheduled funders and events in the
 
 ## Friday, September 23
 
-* **09:00 am - 10:30 am**: Funder Presentations, in Grand Minoru
+* **09:00 am - 09:15 am**: Funder Presentations, in Grand Minoru
 * **09:00 am - 05:00 pm**: Individual Appointments, in various break-out rooms
+* **09:30 am - 12:00 pm**: proposal Writing Workshops with sign-up on site 
 * **10:30 am - 10:45 am**: Nutritional Coffee Break
-* **10:45 am - 12:00 pm**: Funder Presentations, in Grand Minoru
 * **12:00 pm - 01:00 pm**: Lunch Provided
-* **01:00 pm - 02:45 pm**: Funders Presentations, in Grand Minoru
+* **01:00 pm - 02:00 pm**: Funders Presentations, in Grand Minoru
 * **02:45 pm - 03:00 pm**: Nutritional Coffee Break
-* **03:00 pm - 05:00 pm**: Funder Presentations, Closing, in Grand Minoru
+* **02:00 pm - 05:00 pm**: BC Cociety Act Changes, in Grand Minoru
