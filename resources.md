@@ -31,9 +31,9 @@ order: 5
   <br>
   Website: [First Peoples Cultural Council](http://www.fpcc.ca/)
   <br>
-  [Download PowerPoint Presentation - Language](/public/resources/FirstPeoplesCulturalCouncil_Language.pptx) 
+  [Download PowerPoint Presentation - Language](/public/resources/FirstPeoplesCulturalCouncilLanguage.pptx) 
    <br>
-  [Download PowerPoint Presentation - Arts](/public/resources/FirstPeoplesCulturalCouncil_Arts.pptx)  
+  [Download PowerPoint Presentation - Arts](/public/resources/FirstPeoplesCulturalCouncilArts.pptx)  
 
 * Funding Source
   <br>
