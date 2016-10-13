@@ -23,7 +23,7 @@ order: 5
   <br>
   [Download PowerPoint Presentation](/public/resources/VanCity.pptx) 
    <br>
-  [Download Vancity Backgrounder PDF](public/resources/VancityBackgrounder.pdf)
+  [Download Vancity Backgrounder PDF](/public/resources/VancityBackgrounder.pdf)
   
 * Funding Source
   <br>
@@ -31,7 +31,7 @@ order: 5
   <br>
   Website: [First Peoples Cultural Council](http://www.fpcc.ca/)
   <br>
-  [Download PowerPoint Presentation - Language](public/resources/FirstPeoplesCulturalCouncil_Language.pptx) 
+  [Download PowerPoint Presentation - Language](/public/resources/FirstPeoplesCulturalCouncil_Language.pptx) 
    <br>
   [Download PowerPoint Presentation - Arts](/public/resources/FirstPeoplesCulturalCouncil_Arts.pptx)  
 
