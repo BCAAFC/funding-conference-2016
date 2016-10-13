@@ -14,6 +14,8 @@ order: 5
   Provided by: Ministry of Social Development and Social innovation, community and Employer Partnership
   <br>
   [Click here to visit website for more information](https://www.workbc.ca/Employment-Services/Community-and-Employer-Partnerships/Community-and-Employer-Partnerships.aspx)
+  
+  More Funding Sources Coming Soon...
 
 
 <!--
