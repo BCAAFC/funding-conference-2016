@@ -21,9 +21,9 @@ order: 5
   <br>
   Website: [VanCity](https://www.vancity.com/)
   <br>
-  [PowerPoint Presentation](public/resources/VanCity.pptx) 
+  [Download PowerPoint Presentation](public/resources/VanCity.pptx) 
    <br>
-  [Vancity Backgrounder](/resources/VancityBackgrounder.pdf)
+  [Download Vancity Backgrounder PDF](/resources/VancityBackgrounder.pdf)
   
 * Funding Source
   <br>
@@ -31,9 +31,9 @@ order: 5
   <br>
   Website: [First Peoples Cultural Council](http://www.fpcc.ca/)
   <br>
-  [PowerPoint Presentation - Language](public/resources/FirstPeoplesCulturalCouncil_Language.pptx) 
+  [Download PowerPoint Presentation - Language](public/resources/FirstPeoplesCulturalCouncil_Language.pptx) 
    <br>
-  [PowerPoint Presentation - Arts](public/resources/FirstPeoplesCulturalCouncil_Arts.pptx)  
+  [Download PowerPoint Presentation - Arts](public/resources/FirstPeoplesCulturalCouncil_Arts.pptx)  
 
 * Funding Source
   <br>
@@ -41,7 +41,7 @@ order: 5
   <br>
   Website: [Success By 6](http://www.successby6bc.ca/)
   <br>
-  [Powerpoint Presentation](public/resources/SuccessBy6BC.pptx)
+  [Download Powerpoint Presentation](public/resources/SuccessBy6BC.pptx)
   
 * Funding Source
   <br>
@@ -49,7 +49,7 @@ order: 5
    <br>
   Website: [Foundation Search Canada](http://www.foundationsearch.ca/)
   <br>
-  [Powerpoint Presentation](public/resources/FoundationSearch.pptx)
+  [Download Powerpoint Presentation](public/resources/FoundationSearch.pptx)
   
 * Funding Source
   <br>
@@ -57,7 +57,7 @@ order: 5
   <br>
   Website: [Telus - Get Funding](https://community.telus.com/get-funding/)
   <br>
-  [Powerpoint Presentation](public/resources/TELUS.ppt)
+  [Download Powerpoint Presentation](public/resources/TELUS.ppt)
   
 * Funding Source
   <br>
@@ -65,7 +65,7 @@ order: 5
   <br>
   Website: [BC Arts Council](https://www.bcartscouncil.ca/)
   <br>
-  [Powerpoint Presentation](public/resources/BCArtsCouncil.pptx)
+  [Download Powerpoint Presentation](public/resources/BCArtsCouncil.pptx)
 
 <!--
 * Funding Source
