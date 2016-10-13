@@ -21,9 +21,9 @@ order: 5
   <br>
   Website: [VanCity](https://www.vancity.com/)
   <br>
-  [Download PowerPoint Presentation](public/resources/VanCity.pptx) 
+  [Download PowerPoint Presentation](/public/resources/VanCity.pptx) 
    <br>
-  [Download Vancity Backgrounder PDF](/resources/VancityBackgrounder.pdf)
+  [Download Vancity Backgrounder PDF](public/resources/VancityBackgrounder.pdf)
   
 * Funding Source
   <br>
@@ -33,7 +33,7 @@ order: 5
   <br>
   [Download PowerPoint Presentation - Language](public/resources/FirstPeoplesCulturalCouncil_Language.pptx) 
    <br>
-  [Download PowerPoint Presentation - Arts](public/resources/FirstPeoplesCulturalCouncil_Arts.pptx)  
+  [Download PowerPoint Presentation - Arts](/public/resources/FirstPeoplesCulturalCouncil_Arts.pptx)  
 
 * Funding Source
   <br>
@@ -41,7 +41,7 @@ order: 5
   <br>
   Website: [Success By 6](http://www.successby6bc.ca/)
   <br>
-  [Download Powerpoint Presentation](public/resources/SuccessBy6BC.pptx)
+  [Download Powerpoint Presentation](/public/resources/SuccessBy6BC.pptx)
   
 * Funding Source
   <br>
@@ -49,7 +49,7 @@ order: 5
    <br>
   Website: [Foundation Search Canada](http://www.foundationsearch.ca/)
   <br>
-  [Download Powerpoint Presentation](public/resources/FoundationSearch.pptx)
+  [Download Powerpoint Presentation](/public/resources/FoundationSearch.pptx)
   
 * Funding Source
   <br>
@@ -57,7 +57,7 @@ order: 5
   <br>
   Website: [Telus - Get Funding](https://community.telus.com/get-funding/)
   <br>
-  [Download Powerpoint Presentation](public/resources/TELUS.ppt)
+  [Download Powerpoint Presentation](/public/resources/TELUS.ppt)
   
 * Funding Source
   <br>
@@ -65,7 +65,7 @@ order: 5
   <br>
   Website: [BC Arts Council](https://www.bcartscouncil.ca/)
   <br>
-  [Download Powerpoint Presentation](public/resources/BCArtsCouncil.pptx)
+  [Download Powerpoint Presentation](/public/resources/BCArtsCouncil.pptx)
 
 <!--
 * Funding Source
