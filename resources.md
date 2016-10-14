@@ -85,6 +85,59 @@ order: 5
   Website: [BC ASETS Agreement Holders](http://www.esdc.gc.ca/en/aboriginal/agreement_holders.page#bc/)
   <br>
 
+ * Funding Source
+  <br>
+  Provided by: Department of Justice Canada
+  <br>
+  Funding for trauma-informed services for families of missing and murdered Indigenous women and girls (MMIW)
+  <br>
+  Website: [Department of Justice Canada](http://www.justice.gc.ca/eng/fund-fina/cj-jp/fund-fond/vict.html/)
+  <br>
+  For more information about this funding, please contact:
+  <br>
+  Victims Fund Manager
+  <br>
+  Programs Branch
+  <br>
+  Department of Justice Canada
+  <br>
+  284 Wellington Street, 6th Floor
+  <br>
+  Ottawa, Ontario K1A 0H8
+  <br>
+  Telephone: 613-941-4193
+  <br>
+  Fax: 613-954-4893
+  <br>
+  E-mail: pb-dgp@justice.gc.ca
+  <br>
+  
+ * Funding Source
+  <br>
+  Provided by: British Columbia Aboriginal Skills Training Programs Inventory, Nov. 15, 2015 
+  <br>
+  Website: [British Columbia Aboriginal Skills Training Programs Inventory](http://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/aboriginal-people/aboriginal-peoples-documents/inventory_of_british_columbia_skills_training_programs_-_nov_2015.pdf/)
+  <br>
+  
+ * Funding Source
+  <br>
+  Provided by: Government of Canada through the Canada-BC Job Fund
+  <br>
+  Funding for Canada-B.C. Job Grant for Indigenous Organizations
+  <br>
+  Website: [PDF Download](/public/resources/CanBCJobGrantsBCAAFC.pdf/)
+  <br>
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
 
 <!--
 * Funding Source
