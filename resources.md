@@ -125,8 +125,19 @@ order: 5
   <br>
   Funding for Canada-B.C. Job Grant for Indigenous Organizations
   <br>
-  Website: [PDF Download](/public/resources/CanBCJobGrantsBCAAFC.pdf/)
+  [PDF Download](/public/resources/CanBCJobGrantsBCAAFC.pdf/)
   <br>
+  
+  * Funding Source
+  <br>
+  Provided by: First Nations Health Authority 
+  <br>
+  Our Community, Our Water Grant Opportunity
+  <br>
+  Application: [Click Here](http://www.fnha.ca/about/news-and-events/news/our-community-our-water-grant-opportunity/)
+  <br>
+  
+  
   
   
   
