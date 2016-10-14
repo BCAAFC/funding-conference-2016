@@ -3,6 +3,18 @@ layout: page
 title: Resources
 order: 5
 ---
+
+  Workshop Presentations
+  <br>
+  Preparing for the new BC Societies Act 
+  <br>
+  Prepared and Presented by: Bryan Millman
+  <br> 
+  Website: [Bull, Housser & Tupper LLP](https://www.bht.com/)
+  <br>
+  Download: [Powerpoint Presentation](/public/resources/PreparingforthenewBCSocietiesAct.ppt)
+  <br>
+  
 * Funding Source
   <br>
   Provided by: Indspire
@@ -67,7 +79,7 @@ order: 5
   <br>
   Download: [Powerpoint Presentation](/public/resources/BCArtsCouncil.pptx)
   
-* Workshop Presentations
+ Workshop Presentations
   <br>
   Preparing for the new BC Societies Act 
   <br>
