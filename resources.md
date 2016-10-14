@@ -66,6 +66,15 @@ order: 5
   Website: [BC Arts Council](https://www.bcartscouncil.ca/)
   <br>
   [Download Powerpoint Presentation](/public/resources/BCArtsCouncil.pptx)
+ 
+ **Other Funding Sources**
+ 
+ * Funding Source
+  <br>
+  Provided by: Canada Mortgage and Housing Corporation
+  <br>
+  Website: [Canada Mortgage and Housing Corporation](https://www.cmhc-schl.gc.ca/en/first-nation/financial-assistance/renovation-programs/shelter-enhancement-program.cfm?platform=hootsuite/)
+  <br>
 
 <!--
 * Funding Source
