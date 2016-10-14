@@ -4,7 +4,7 @@ title: Resources
 order: 5
 ---
 
- * Workshop Presentations
+ * Workshop Presentation
   <br>
   Preparing for the new BC Societies Act 
   <br>
@@ -15,11 +15,11 @@ order: 5
   Download: [Powerpoint Presentation](/public/resources/PreparingforthenewBCSocietiesAct.ppt)
   <br>
   
- * BC Association of Aboriginal Friendship Centres: Proposal Writing Essentials
+ * Workshop Presentation 
+  <br>
+  BC Association of Aboriginal Friendship Centres: Proposal Writing Essentials
   <br>
   Prepared and Presented by: Tanya Clarmont and Julie Robertson
-  <br>
-  Workshop Materials
   <br>
   Download: [PDF Presentation](/public/resources/ProposalWorkshopFundingConference.pdf)
   <br>
@@ -32,8 +32,7 @@ order: 5
   Download: [Tracking In King Donations - Excel](/public/resources/TrackingVolunteerContributions.xlsx)
   <br>
   
-  
-  
+
 * Funding Source
   <br>
   Provided by: Indspire
