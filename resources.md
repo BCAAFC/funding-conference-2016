@@ -15,17 +15,38 @@ order: 5
   Download: [Powerpoint Presentation](/public/resources/PreparingforthenewBCSocietiesAct.ppt)
   <br>
   
+ * BC Association of Aboriginal Friendship Centres: Proposal Writing Essentials
+  <br>
+  Prepared and Presented by: Tanya Clarmont and Julie Robertson
+  <br>
+  Workshop Materials
+  <br>
+  Download: [PDF Presentation](/public/resources/ProposalWorkshopFundingConference.pdf)
+  <br>
+  Download: [Mock Request for Proposals](/public/resources/MockProposals.pdf)
+  <br>
+  Download: [Program Description Template](/public/resources/PrgmDescriptionTemplate.docx)
+  <br>
+  Download: [Tracking Volunteer Contributions - Excel](/public/resources/TrackingVolunteerContributions.xlsx)
+  <br>
+  Download: [Tracking In King Donations - Excel](/public/resources/TrackingVolunteerContributions.xlsx)
+  <br>
+  
+  
+  
 * Funding Source
   <br>
   Provided by: Indspire
   <br>
-  [Click here to visit website for more information](https://indspire.ca/for-students/bursaries-scholarships/)
+  Funding For Students and Bursaries
+  <br>
+  Website: [Indspire](https://indspire.ca/for-students/bursaries-scholarships/)
 
 * Funding Source
   <br>
   Provided by: Ministry of Social Development and Social innovation, community and Employer Partnership
   <br>
-  [Click here to visit website for more information](https://www.workbc.ca/Employment-Services/Community-and-Employer-Partnerships/Community-and-Employer-Partnerships.aspx)
+  Website: [Work BC](https://www.workbc.ca/Employment-Services/Community-and-Employer-Partnerships/Community-and-Employer-Partnerships.aspx)
   
 * Funding Source
   <br>
@@ -140,7 +161,7 @@ Other Funding Sources
   PDF Download: [Click Here](/public/resources/CanBCJobGrantsBCAAFC.pdf/)
   <br>
   
-  * Funding Source
+ * Funding Source
   <br>
   Provided by: First Nations Health Authority 
   <br>
