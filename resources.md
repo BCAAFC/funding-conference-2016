@@ -67,11 +67,13 @@ order: 5
   <br>
   [Download Powerpoint Presentation](/public/resources/BCArtsCouncil.pptx)
  
- **Other Funding Sources**
+ Other Funding Sources
  
  * Funding Source
   <br>
   Provided by: Canada Mortgage and Housing Corporation
+  <br>
+  Funding for on-reserve emergency shelters for First Nations communities
   <br>
   Website: [Canada Mortgage and Housing Corporation](https://www.cmhc-schl.gc.ca/en/first-nation/financial-assistance/renovation-programs/shelter-enhancement-program.cfm?platform=hootsuite/)
   <br>
