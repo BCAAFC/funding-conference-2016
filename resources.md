@@ -66,6 +66,17 @@ order: 5
   Website: [BC Arts Council](https://www.bcartscouncil.ca/)
   <br>
   Download: [Powerpoint Presentation](/public/resources/BCArtsCouncil.pptx)
+  
+* Workshop Presentations
+  <br>
+  Preparing for the new BC Societies Act 
+  <br>
+  Prepared and Presented by: Bryan Millman
+  <br> 
+  Website: [Bull, Housser & Tupper LLP](https://www.bht.com/)
+  <br>
+  Download: [Powerpoint Presentation](/public/resources/PreparingforthenewBCSocietiesAct.ppt)
+  <br>
  
  Other Funding Sources
  
