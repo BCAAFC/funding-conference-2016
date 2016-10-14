@@ -77,6 +77,14 @@ order: 5
   <br>
   Website: [Canada Mortgage and Housing Corporation](https://www.cmhc-schl.gc.ca/en/first-nation/financial-assistance/renovation-programs/shelter-enhancement-program.cfm?platform=hootsuite/)
   <br>
+  
+ * Funding Source
+  <br>
+  Provided by: BC ASETS Agreement Holders 
+  <br>
+  Website: [BC ASETS Agreement Holders](http://www.esdc.gc.ca/en/aboriginal/agreement_holders.page#bc/)
+  <br>
+
 
 <!--
 * Funding Source
