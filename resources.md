@@ -47,9 +47,10 @@ order: 5
   Website: [VanCity](https://www.vancity.com/)
   <br>
   Download: [PowerPoint Presentation](/public/resources/VanCity.pptx) 
-   <br>
+  <br>
   Download: [Vancity Backgrounder PDF](/public/resources/VancityBackgrounder.pdf)
-  
+  <br>
+   
 * Funding Source
   <br>
   Provided by: First Peoples Cultural Council
@@ -57,7 +58,7 @@ order: 5
   Website: [First Peoples Cultural Council](http://www.fpcc.ca/)
   <br>
   Download: [PowerPoint Presentation - Language](/public/resources/FirstPeoplesCulturalCouncilLanguage.pptx) 
-   <br>
+  <br>
   Download: [PowerPoint Presentation - Arts](/public/resources/FirstPeoplesCulturalCouncilArts.pptx)
   
 * Funding Source
@@ -65,7 +66,7 @@ order: 5
   Provided by: New Relationship Trust
   <br>
   Website: [New Relationship Trust](http://www.newrelationshiptrust.ca/)
-   <br>
+  <br>
   Download: [PowerPoint Presentation](/public/resources/NewRelationshipTrust.pptm)
   
 * Funding Source
@@ -73,9 +74,9 @@ order: 5
   Provided by: ACCESS- Aboriginal Community Career Employment Services Society
   <br>
   Website: [ACCESS](http://www.accessfutures.com/)
-   <br>
-  Download: [PowerPoint Presentation](/public/resources/ACCESS_AboriginalCommunityCareerEmploymentServicesSociety.pptx)  
-  
+  <br>
+  Download: [PowerPoint Presentation](/public/resources/ACCESS_AboriginalCommunityCareerEmploymentServicesSociety.pptx)
+  <br>
 
 * Funding Source
   <br>
@@ -88,7 +89,7 @@ order: 5
 * Funding Source
   <br>
   Provided by: Foundation Search Canada & Turtle Island Indigenous Education Corporation
-   <br>
+  <br>
   Website: [Foundation Search Canada](http://www.foundationsearch.ca/)
   <br>
   Download: [Powerpoint Presentation](/public/resources/FoundationSearch.pptx)
