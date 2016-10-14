@@ -32,20 +32,13 @@ order: 5
   Download: [Tracking In King Donations - Excel](/public/resources/TrackingVolunteerContributions.xlsx)
   <br>
   
-
 * Funding Source
   <br>
-  Provided by: Indspire
+  Provided by: The Law Foundation of BC
   <br>
-  Funding For Students and Bursaries
+  Website: [The Law Foundation of BC](http://www.lawfoundationbc.org/)
   <br>
-  Website: [Indspire](https://indspire.ca/for-students/bursaries-scholarships/)
-
-* Funding Source
-  <br>
-  Provided by: Ministry of Social Development and Social innovation, community and Employer Partnership
-  <br>
-  Website: [Work BC](https://www.workbc.ca/Employment-Services/Community-and-Employer-Partnerships/Community-and-Employer-Partnerships.aspx)
+  Download: [Powerpoint Presentation](/public/resources/TheLawFoundation.pptx)
   
 * Funding Source
   <br>
@@ -65,7 +58,24 @@ order: 5
   <br>
   Download: [PowerPoint Presentation - Language](/public/resources/FirstPeoplesCulturalCouncilLanguage.pptx) 
    <br>
-  Download: [PowerPoint Presentation - Arts](/public/resources/FirstPeoplesCulturalCouncilArts.pptx)  
+  Download: [PowerPoint Presentation - Arts](/public/resources/FirstPeoplesCulturalCouncilArts.pptx)
+  
+* Funding Source
+  <br>
+  Provided by: New Relationship Trust
+  <br>
+  Website: [New Relationship Trust](http://www.newrelationshiptrust.ca/)
+   <br>
+  Download: [PowerPoint Presentation](/public/resources/NewRelationshipTrust.pptm)
+  
+* Funding Source
+  <br>
+  Provided by: ACCESS- Aboriginal Community Career Employment Services Society
+  <br>
+  Website: [ACCESS](http://www.accessfutures.com/)
+   <br>
+  Download: [PowerPoint Presentation](/public/resources/ACCESS_AboriginalCommunityCareerEmploymentServicesSociety.pptx)  
+  
 
 * Funding Source
   <br>
@@ -100,6 +110,20 @@ order: 5
   Download: [Powerpoint Presentation](/public/resources/BCArtsCouncil.pptx)
   
 Other Funding Sources
+
+* Funding Source
+  <br>
+  Provided by: Indspire
+  <br>
+  Funding For Students and Bursaries
+  <br>
+  Website: [Indspire](https://indspire.ca/for-students/bursaries-scholarships/)
+
+* Funding Source
+  <br>
+  Provided by: Ministry of Social Development and Social innovation, community and Employer Partnership
+  <br>
+  Website: [Work BC](https://www.workbc.ca/Employment-Services/Community-and-Employer-Partnerships/Community-and-Employer-Partnerships.aspx)
  
  * Funding Source
   <br>
