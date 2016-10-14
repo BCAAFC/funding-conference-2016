@@ -126,7 +126,7 @@ Other Funding Sources
   <br>
   Website: [Work BC](https://www.workbc.ca/Employment-Services/Community-and-Employer-Partnerships/Community-and-Employer-Partnerships.aspx)
  
- * Funding Source
+* Funding Source
   <br>
   Provided by: Canada Mortgage and Housing Corporation
   <br>
@@ -134,15 +134,15 @@ Other Funding Sources
   <br>
   Website: [Canada Mortgage and Housing Corporation](https://www.cmhc-schl.gc.ca/en/first-nation/financial-assistance/renovation-programs/shelter-enhancement-program.cfm?platform=hootsuite/)
   <br>
-  
- * Funding Source
+ 
+* Funding Source
   <br>
   Provided by: BC ASETS Agreement Holders 
   <br>
   Website: [BC ASETS Agreement Holders](http://www.esdc.gc.ca/en/aboriginal/agreement_holders.page#bc/)
   <br>
 
- * Funding Source
+* Funding Source
   <br>
   Provided by: Department of Justice Canada
   <br>
@@ -169,14 +169,14 @@ Other Funding Sources
   E-mail: pb-dgp@justice.gc.ca
   <br>
   
- * Funding Source
+* Funding Source
   <br>
   Provided by: British Columbia Aboriginal Skills Training Programs Inventory, Nov. 15, 2015 
   <br>
   Website: [British Columbia Aboriginal Skills Training Programs Inventory](http://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/aboriginal-people/aboriginal-peoples-documents/inventory_of_british_columbia_skills_training_programs_-_nov_2015.pdf/)
   <br>
   
- * Funding Source
+* Funding Source
   <br>
   Provided by: Government of Canada through the Canada-BC Job Fund
   <br>
@@ -185,7 +185,7 @@ Other Funding Sources
   PDF Download: [Click Here](/public/resources/CanBCJobGrantsBCAAFC.pdf/)
   <br>
   
- * Funding Source
+* Funding Source
   <br>
   Provided by: First Nations Health Authority 
   <br>
