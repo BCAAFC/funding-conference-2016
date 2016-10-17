@@ -63,6 +63,20 @@ order: 5
   
 * Funding Source
   <br>
+  Provided by: BC Association of Aboriginal Friendship Centres
+  <br>
+  Website: [BCAAFC](http://www.bcaafc.com/)
+  <br>
+  Download: [PowerPoint Presentation - First Citizens Fund Student Bursary](/public/resources/BCAAFC_FCF_StudentBursary.pptx) 
+  <br>
+  More Info: [Student Bursary](http://www.bcaafc.com/programs/first-citizens-fund/5-programs/programs/31-studentbursary/)
+  <br>
+  Download: [PowerPoint Presentation - Post-Secondary Student Support Program](/public/resources/BCAAFC_PSSSP.pptx) 
+  <br>
+  More Info: [PSSSP](http://www.bcaafc.com/programs/psssp/)
+  
+* Funding Source
+  <br>
   Provided by: New Relationship Trust
   <br>
   Website: [New Relationship Trust](http://www.newrelationshiptrust.ca/)
