@@ -124,6 +124,16 @@ order: 5
   <br>
   Download: [Powerpoint Presentation](/public/resources/BCArtsCouncil.pptx)
   
+* Funding Source
+  <br>
+  Provided by: Environment and Climate Change Canada
+  <br>
+  Website: [Environment and Climate Change Canada - Funding Programs](https://www.ec.gc.ca/financement-funding/default.asp?lang=En&n=923047A0-1/)
+  <br>
+  Download: [Powerpoint Presentation](/public/resources/ECCCFundingPrograms.pptx)
+  <br>
+  Download: [Funding Booklet - PDF](/public/resources/ECCCFundingProgramsBooklet.pdf)
+  
 Other Funding Sources
 
 * Funding Source
