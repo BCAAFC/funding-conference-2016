@@ -133,6 +133,15 @@ order: 5
   Download: [Powerpoint Presentation](/public/resources/ECCCFundingPrograms.pptx)
   <br>
   Download: [Funding Booklet - PDF](/public/resources/ECCCFundingProgramsBooklet.pdf)
+ 
+* Funding Source
+  <br>
+  Provided by: Jobs, Tourism, and Skills Training
+  <br>
+  Website: [WorkBC Canada - BC Job Grant](https://www.workbc.ca/Employer-Resources/Canada-BC-Job-Grant.aspx/)
+  <br>
+  Download: [Canada - BC Job Grant PDF](/public/resources/CanBCJobGrantsBCAAFC.pdf)
+  
   
 Other Funding Sources
 
