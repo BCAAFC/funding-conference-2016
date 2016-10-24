@@ -142,6 +142,14 @@ order: 5
   <br>
   Download: [Canada - BC Job Grant PDF](/public/resources/CanBCJobGrantsBCAAFC.pdf)
   
+* Funding Source
+  <br>
+  Provided by: Neil Squire Society
+  <br>
+  Website: [Neil Squire Society]https://www.neilsquire.ca/)
+  <br>
+  Download: [Powerpoint Presentation](/public/resources/NeilSquireSociety.pptx)  
+  
   
 Other Funding Sources
 
