@@ -146,7 +146,7 @@ order: 5
   <br>
   Provided by: Neil Squire Society
   <br>
-  Website: [Neil Squire Society]https://www.neilsquire.ca/)
+  Website: [Neil Squire Society](https://www.neilsquire.ca/)
   <br>
   Download: [Powerpoint Presentation](/public/resources/NeilSquireSociety.pptx)  
   
