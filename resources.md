@@ -77,6 +77,14 @@ order: 5
   
 * Funding Source
   <br>
+  Provided by: BC Association of Aboriginal Friendship Centres
+  <br>
+  Website: [Urban Partnerships](http://www.bcaafc.com/programs/urbanpartnerships/)
+  <br>
+  Download: [PowerPoint Presentation](/public/resources/BCAAFC_UrbanPartnerships.pptx)  
+  
+* Funding Source
+  <br>
   Provided by: New Relationship Trust
   <br>
   Website: [New Relationship Trust](http://www.newrelationshiptrust.ca/)
